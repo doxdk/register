@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "doxdk",
+        "email": "redbestscam@gmail.com"
+    },
+    "target": {
+        "A": {
+            "name": "doxdk",
+            "value": ["62.164.220.40"]
+        }
+    },
+    "proxied": false
+}
